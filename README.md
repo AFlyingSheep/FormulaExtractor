@@ -14,17 +14,24 @@ So this tool provides a method to extract the formula easily.
 
 2. Share this conversation, which can make your talks public.
 
-<div style="text-align: center;">
+<div align=center>
     <img src="./image/step1.png" width="800px">
 </div>
 
-<div style="text-align: center;">
+
+<div align=center>
     <img src="./image/step2.png" width="300px">
 </div>
 
-3. Copy the link and input it to the URL textbox, then check the button of "Transform Now!"
+3. Use command: ```python run.sh``` or download the exe file from Releases to obtain the program (Only for Windows).
 
-4. You will get the original formula with markdown/latex.
+4. Copy the link and input it to the URL textbox, then check the button of "Transform Now!"
+
+5. You will get the original formula with markdown/latex after 20 ~ seconds (due to your network). Click the formula to copy it!
+
+<div align=center>
+    <img src="./image/step3.png" width="800px">
+</div>
 
 ### FAQ
 
