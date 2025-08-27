@@ -37,4 +37,4 @@ So this tool provides a method to extract the formula easily.
 
 1. Get the error: About MSEdgeDriver, which can't be found.
 
-    You can get the driver from tools/msedgedriver.exe, and add it to your enviroment PATH.
+    You can download the driver from [this website](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver) (Recommand using Chrome to open it), and add it to your enviroment PATH.
